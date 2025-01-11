@@ -1,6 +1,9 @@
 # 💫 About Me:
 1994 Ankara doğumlu olan Burak Kaydeli, Kütahya Dumlupınar Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. PHP (Laravel, Yii2), Dotnet Core C#, Solidity, Typescript, NodeJS, Java, Swift, Unity, AngularJS, Flutter, Xamarin Forms, React Native, VueJS gibi programlama dilleri ile çalıştım. Bir çok borsa ve coin'e yazılım desteği verdim. Destek verdiğim ve katkıda bulunduğum projelerde Blockhain Development, Mobile Application Development, RESTful Api Development gibi süreçlerde bulundum. <br><br>Her gün edindiğim tecrübeler ile bu eğlenceli development serüvenime devam etmekteyim.
 
+bkaydeli@gmail.com
+0554 135 0611
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaydeliburak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burakkaydeli) 
